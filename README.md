@@ -30,7 +30,7 @@ See more info about Petals in its [main GitHub repo](https://github.com/bigscien
 You can run this app on your server using these commands:
 
 ```bash
-git clone https://github.com/petals-infra/health.petals.dev
+git clone [https://github.com/petals-infra/health.petals.dev](https://github.com/HyperdustLab/health.petals.dev)
 cd health.petals.dev
 pip install -r requirements.txt
 flask run --host=0.0.0.0 --port=5000
